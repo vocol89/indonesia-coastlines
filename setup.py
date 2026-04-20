@@ -27,6 +27,7 @@ REQUIRED = [
     "matplotlib",
     "mapclassify",
     "numpy",
+    "odc-algo @ git+https://github.com/opendatacube/odc-algo.git",
     "odc-geo",
     "odc-stac",
     "odc_ui",
